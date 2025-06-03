@@ -1,3 +1,4 @@
+!---
+title: Welcome to my blog hello all and welcome!
 ---
-title: Welcome to my blog!
----
+<body>welcome to my assigment 2 blog</body>
